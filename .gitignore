@@ -99,3 +99,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Custom
+# =========================
+*.zip
+*.pdf
+*.csv
+*.txt
+tmp*
